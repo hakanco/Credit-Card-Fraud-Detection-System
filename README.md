@@ -1,9 +1,9 @@
 ## Credit-Card-Fraud-Detection-System
 
 ### Motivation
-The increasing digital transactions and sophisticated fraud techniques necessitate a robust fraud detection system, motivating this project to leverage advanced machine learning for enhanced accuracy and reliability in credit card fraud prevention.
+The escalating volume of digital transactions and increasingly sophisticated fraud techniques necessitate development of highly performant fraud detection models. This project is motivated by the technical challenge of applying advanced machine learning algorithms to build a system that achieves superior accuracy and reliability in distinguishing fraudulent from legitimate credit card transactions.
 
-My motivation stems from the desire to protect consumers from financial loss and to support financial institutions in mitigating risks associated with fraudulent transactions. By developing a comprehensive credit card fraud prevention system, we can significantly reduce the occurrence of fraud, ensuring a safer and more secure transaction environment. The project's success will not only contribute to financial security but also build greater trust in digital payment systems.
+My motivation is rooted in leveraging data science to tackle critical financial risk. By meticulously analyzing transaction data, engineering relevant features, and implementing robust model validation, we aim to create a system that effectively mitigates financial losses for both consumers and institutions. The project's success will demonstrate the power of data analytics in enhancing financial security and fostering trust in digital payment ecosystems.
 
 ### Methodology
 <div style="text-align: center;">
